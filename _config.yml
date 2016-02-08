@@ -36,6 +36,6 @@ color:
     - '#FFE030'
   brandStrength: 1
   lightness: 0.1362007
-  saturation: 0.6971326
-  rhythmicContrast: 0
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
