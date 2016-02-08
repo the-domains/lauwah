@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mr. LauWah @ UCCKE]]></title>
         <description><![CDATA[Mr. LauWah @ UCCKE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lauwah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 23:34:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 01:37:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lauwah/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>第一次在新加坡跑步</p>]]></description>
-            <link>undefined62383185-60df-416c-8b36-e662195afd61/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5000646e-1ab8-47f4-b7b2-54397eb79bdb.JPG">]]></description>
+            <link>https://thegrid.ai/lauwah/62383185-60df-416c-8b36-e662195afd61/index.html</link>
             <guid isPermaLink="false">62383185-60df-416c-8b36-e662195afd61</guid>
-            <pubDate>Sun, 07 Feb 2016 23:34:01 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 01:37:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
