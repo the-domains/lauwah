@@ -1,29 +1,41 @@
-name: lauwah
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.50568
 title: Mr. LauWah @ UCCKE
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.625
+  brandStrength: 0.7885305
+  lightness: 0.6863799
+  brandColors:
+    - '#161827'
+    - '#F4F1F2'
+    - '#434A5C'
+    - '#B3ACA3'
+    - '#024CCF'
+  rhythmicContrast: 0.2258064
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: lauwah
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0.625
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.6523297
+layout_spectrum: 1
