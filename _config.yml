@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.375
   brandStrength: 1
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: lauwah
 favicon: null
+name: lauwah
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.25612
-layout_spectrum: 0.1648746
+layout_spectrum: 0.4516129
